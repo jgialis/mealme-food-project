@@ -1,0 +1,29 @@
+[
+	{
+		"id": 0,
+		"firstName": "Josue",
+		"lastName": "Gialis",
+		"email": "jgialis@gmail.com",
+		"age": 28,
+		"height": 73,
+		"weight": 160
+	},
+	{
+		"id": 1,
+		"firstName": "Jennifer",
+		"lastName": "Zaragoza",
+		"email": "jenniferzaragoza29@yahoo.com",
+		"age": 26,
+		"height": 63,
+		"weight": 110
+	},
+	{
+		"id": 2,
+		"firstName": "Daniel",
+		"lastName": "Thomas",
+		"email": "djdanny22@gmail.com",
+		"age": 24,
+		"height": 70,
+		"weight": 180
+	}
+]

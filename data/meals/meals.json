@@ -1,0 +1,17 @@
+[
+	{
+		"id": 0,
+		"meal": "Chicken Piccatta",
+		"ingredients": []
+	},
+	{
+		"id": 1,
+		"meal": "Pancakes",
+		"ingredients": []
+	},
+	{
+		"id": 2,
+		"meal": "Ice Cream",
+		"ingredients": []
+	}
+]
