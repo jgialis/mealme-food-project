@@ -1,23 +1,23 @@
 {
-  "name": "mealme-food-project",
-  "version": "1.0.0",
-  "description": "This is an application where people can create a profile based on some variables and then receive a meal plan based on those variables.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/jgialis/mealme-food-project.git"
-  },
-  "author": "Josue Gialis",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/jgialis/mealme-food-project/issues"
-  },
-  "homepage": "https://github.com/jgialis/mealme-food-project#readme",
-  "dependencies": {
-    "express": "^4.17.3",
-    "nodemon": "^2.0.15"
-  }
+	"name": "mealme-food-project",
+	"version": "1.0.0",
+	"description": "This is an application where people can create a profile based on some variables and then receive a meal plan based on those variables.",
+	"main": "index.js",
+	"scripts": {
+		"start": "nodemon server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jgialis/mealme-food-project.git"
+	},
+	"author": "Josue Gialis",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jgialis/mealme-food-project/issues"
+	},
+	"homepage": "https://github.com/jgialis/mealme-food-project#readme",
+	"dependencies": {
+		"express": "^4.17.3",
+		"nodemon": "^2.0.15"
+	}
 }
